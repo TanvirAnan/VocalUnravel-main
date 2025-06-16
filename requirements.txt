@@ -1,0 +1,12 @@
+future
+numpy
+librosa
+soundfile
+musdb
+museval
+h5py
+tqdm
+torchvision
+tensorboard
+sortedcontainers
+resampy
